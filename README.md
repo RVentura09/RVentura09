@@ -12,19 +12,17 @@
 ###
 ------------------------------------------------------------------------------
 
-![](https://capsule-render.vercel.app/api?type=venom&height=200&text=🏆%20Certificates%20Earned&fontSize=25&color=0:32CD32,100:006400&stroke=006400)
+![](https://capsule-render.vercel.app/api?type=venom&height=100&text=🏆%20Certificates%20Earned&fontSize=20&color=0:32CD32,100:006400&stroke=006400)
 
 
 <!-- Featured Projects Section -->
 <table>
-<tr>
-<td width="20%">
+<td width="15%">
 <h4 align="center">Microsoft Power BI</h4>
 <div align="center">  
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RonyV/E70F84464DBB198B?sharingId=319BDBC327ACDA45" target="_blank">
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="20%" alt="Microsoft Power BI"/>
 </a>
-<br>
 <br>
 <p>
 </p>
@@ -32,33 +30,30 @@
 </p>
 </div>
 </td>
-<td width="20%">
+<td width="15%">
 <h4 align="center">Google Project Management</h4>
 <div align="center">  
 <a href="https://coursera.org/share/34d7c22c27f23c6dc043b1410da4e39d" target="_blank">
 <img src="https://images.credly.com/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="20%" alt="Google Project Management"/>
 </a>
 <br>
-<br>
 <p>
 </p>
 </div>
 </td>
 </tr>
-<tr>
-<td width="20%">
+<td width="15%">
 <h4 align="center">IBM Data Science</h4>
 <div align="center">  
 <a href="https://coursera.org/share/b83e1beef78f3ce136353cf048705f29" target="_blank">
 <img src="https://images.credly.com/size/680x680/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" width="20%" alt="IBM Data Science"/>
 </a>
 <br>
-<br>
 <p>
 </p>
 </div>
 </td>
-<td width="20%">
+<td width="15%">
 <h4 align="center">HL7 FHIR Fundamentals</h4>
 <div align="center">  
 <a href="https://www.linkedin.com/in/rony-ventura/details/certifications/1706758032074/single-media-viewer?type=DOCUMENT&profileId=ACoAACMxN44BHKnTvnBAXpj52h__hJQzc2VSfp0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2apN7iGiShmgDGhJIGPI1Q%3D%3D" target="_blank">
@@ -72,7 +67,7 @@
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="15%">
 <h4 align="center"> SNOMED CT Foundation</h4>
 <div align="center">  
 <a href="https://www.linkedin.com/in/rony-ventura/details/certifications/1710901329556/single-media-viewer?type=DOCUMENT&profileId=ACoAACMxN44BHKnTvnBAXpj52h__hJQzc2VSfp0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2apN7iGiShmgDGhJIGPI1Q%3D%3D" target="_blank">
@@ -84,7 +79,6 @@
 </p>
 </div>
 </td>
-
 </tr>
 </table>
 
@@ -92,7 +86,7 @@
 ---------------------------------------
 </details>
 
-![](https://capsule-render.vercel.app/api?type=venom&height=200&text=🚀%20Featured%20Projects&fontSize=25&color=0:8871e5,100:b678c4&stroke=b678c4)
+![](https://capsule-render.vercel.app/api?type=venom&height=200&text=🚀%20Featured%20Projects&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <!-- Featured Projects Section -->
 <table>
@@ -124,7 +118,7 @@
 -------------------------------------
 ###
 
-![](https://capsule-render.vercel.app/api?type=venom&height=200&text=💻%20Tech%20Stack&fontSize=25&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
+![](https://capsule-render.vercel.app/api?type=venom&height=200&text=💻%20Tech%20Stack&fontSize=20&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
 
 
 
