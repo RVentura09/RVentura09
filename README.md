@@ -10,9 +10,44 @@
 <p align="left">👯 I’m looking to collaborate with others who share my passion for Data.<br>📚 I'm currently learning German.<br>🎯 Goals: Generate relevant information through data.<br>🎲 Fun fact: I enjoy learning practical things and how they work. I don't like sauce on my food.</p>
 
 ###
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🏆%20Certificates%20Earned&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
+---------------------------------------
+</details>
 
-<h4 align="left">Tools I have used</h4>
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+<!-- Featured Projects Section -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Cuore-V2</h3>
+<div align="center">  
+<a href="" target="_blank">
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/RVentura09/Cuore-V2" target="_blank">
+<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+</a>
+</p>
+<p align="left">
+• A web-based tool designed to assist in diagnosing incoming patients with heart disease based on various patient measurements from the Cleveland Clinic Foundation<br>
+• The tool analyzes different patient measurements and provides a recommended diagnosis of Acute Coronary Syndrome (ACS) to the practitioner<br>
+• Uses machine learning models to predict outcomes based on the features from the Cleveland Clinic UCI Heart Disease dataset
+</p>
+</div>
+</td>
+
+</tr>
+</table>
+
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
+
+
+
+-------------------------------------
 ###
 
 <div align="left">
