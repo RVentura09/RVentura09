@@ -9,14 +9,14 @@
 
 <p align="left">👯 I’m looking to collaborate with others who share my passion for Data.<br>📚 I'm currently learning German.<br>🎯 Goals: Generate relevant information through data.<br>🎲 Fun fact: I enjoy learning practical things and how they work. I don't like sauce on my food.</p>
 
----------------------------------------
+###
+------------------------------------------------------------------------------
 </details>
 
-![](https://capsule-render.vercel.app/api?type=venom&height=200&text=🚀%20Featured%20Projects&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4)
+![](https://capsule-render.vercel.app/api?type=venom&height=100&text=🚀%20Featured%20Projects&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <!-- Featured Projects Section -->
 <table>
-<tr>
 <td width="30%">
 <h4 align="center">Cuore-V2</h4>
 <div align="center">  
@@ -138,11 +138,7 @@
 -------------------------------------
 ###
 
-![](https://capsule-render.vercel.app/api?type=venom&height=200&text=💻%20Tech%20Stack&fontSize=20&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
-
-
-
-
+![](https://capsule-render.vercel.app/api?type=venom&height=100&text=💻%20Tech%20Stack&fontSize=20&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
