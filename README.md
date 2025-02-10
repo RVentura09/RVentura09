@@ -31,8 +31,8 @@
 </a>
 </p>
 <p align="left">
-• A web-based tool designed to assist in diagnosing incoming patients with heart disease based on the features from the Cleveland Clinic UCI Heart Disease dataset<br>
-• The tool analyzes different patient measurements and provides a recommended diagnosis of Acute Coronary Syndrome (ACS) to the practitioner<br>
+• A web-based tool designed to assist in diagnosing incoming patients with heart disease based on the features from the Cleveland Clinic UCI Heart Disease dataset.<br>
+• The tool analyzes different patient measurements and provides a recommended diagnosis of Acute Coronary Syndrome (ACS) to the practitioner.<br>
 • Data cleaning and transformation using Pandas, NumPy, and other tools, followed by analysis and visualization through Power BI dashboards.
 </p>
 </div>
