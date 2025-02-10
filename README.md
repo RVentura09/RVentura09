@@ -121,12 +121,14 @@
 </tr>
 </table>
 
+-------------------------------------
+###
+
 ![](https://capsule-render.vercel.app/api?type=venom&height=200&text=💻%20Tech%20Stack&fontSize=25&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
 
 
 
--------------------------------------
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
@@ -148,6 +150,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
+-------------------------------------
 ###
 
 <h4 align="left">Connect with me:</h4>
