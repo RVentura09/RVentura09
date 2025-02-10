@@ -9,13 +9,65 @@
 
 <p align="left">👯 I’m looking to collaborate with others who share my passion for Data.<br>📚 I'm currently learning German.<br>🎯 Goals: Generate relevant information through data.<br>🎲 Fun fact: I enjoy learning practical things and how they work. I don't like sauce on my food.</p>
 
+---------------------------------------
+</details>
+
+![](https://capsule-render.vercel.app/api?type=venom&height=200&text=🚀%20Featured%20Projects&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4)
+
+<!-- Featured Projects Section -->
+<table>
+<tr>
+<td width="30%">
+<h4 align="center">Cuore-V2</h4>
+<div align="center">  
+<a href="" target="_blank">
+<img src="https://github.com/RVentura09/Cuore-V2/blob/main/header_image.png?raw=true" width="40%" alt="Cuore-V2"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/RVentura09/Cuore-V2" target="_blank">
+<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p align="left">
+• A web-based tool designed to assist in diagnosing incoming patients with heart disease based on the features from the Cleveland Clinic UCI Heart Disease dataset<br>
+• The tool analyzes different patient measurements and provides a recommended diagnosis of Acute Coronary Syndrome (ACS) to the practitioner<br>
+• Data cleaning and transformation using Pandas, NumPy, and other tools, followed by analysis and visualization through Power BI dashboards.
+</p>
+</div>
+</td>
+<td width="30%">
+<h4 align="center">CovidProject</h4>
+<div align="center">  
+<a href="" target="_blank">
+<img src="https://png.pngtree.com/png-vector/20210112/ourlarge/pngtree-world-map-corona-virus-spread-with-typography-in-3d-style-covid-png-image_2729439.jpg" width="13%" alt="CovidProject"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/RVentura09/CovidProject" target="_blank">
+<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p align="left">
+• The project analyzes and visualizes COVID-19 data to highlight trends and insights into the pandemic's impact.<br>
+• Tools Used :  SQL (with SQL Server Management Studio) for data extraction and management, and Tableau (Tableau Public) for data visualization.<br>
+• The project includes real-world datasets (.xlsx), SQL queries (.sql) for data exploration, and a Tableau dashboard (.twb) with a visual summary of the findings.
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+
 ###
 ------------------------------------------------------------------------------
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=100&text=🏆%20Certificates%20Earned&fontSize=20&color=0:32CD32,100:006400&stroke=006400)
 
 
-<!-- Featured Projects Section -->
+<!-- Certificates -->
 <table>
 <td width="15%">
 <h4 align="center">Microsoft Power BI</h4>
@@ -82,38 +134,6 @@
 </tr>
 </table>
 
-
----------------------------------------
-</details>
-
-![](https://capsule-render.vercel.app/api?type=venom&height=200&text=🚀%20Featured%20Projects&fontSize=20&color=0:8871e5,100:b678c4&stroke=b678c4)
-
-<!-- Featured Projects Section -->
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Cuore-V2</h3>
-<div align="center">  
-<a href="" target="_blank">
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/RVentura09/Cuore-V2" target="_blank">
-<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-</a>
-</p>
-<p align="left">
-• A web-based tool designed to assist in diagnosing incoming patients with heart disease based on various patient measurements from the Cleveland Clinic Foundation<br>
-• The tool analyzes different patient measurements and provides a recommended diagnosis of Acute Coronary Syndrome (ACS) to the practitioner<br>
-• Uses machine learning models to predict outcomes based on the features from the Cleveland Clinic UCI Heart Disease dataset
-</p>
-</div>
-</td>
-
-</tr>
-</table>
 
 -------------------------------------
 ###
